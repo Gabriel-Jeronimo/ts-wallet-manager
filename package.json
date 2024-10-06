@@ -27,6 +27,7 @@
     "elliptic": "^6.5.7",
     "ethereumjs-wallet": "^1.0.2",
     "ethers": "^6.13.3",
+    "sqlite3": "^5.1.7",
     "tiny-secp256k1": "^2.2.3"
   }
 }
